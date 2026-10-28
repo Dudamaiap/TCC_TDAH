@@ -8,6 +8,7 @@ seaborn
 tqdm
 joblib
 torch
+torchvision
 jupyter
 ipykernel
 xgboost
