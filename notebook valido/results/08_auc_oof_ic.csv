@@ -1,0 +1,6 @@
+modelo,auc,ic_inf,ic_sup,n_boot_validos,obs
+Dummy_prior,,,,0,"saída constante por fold: usar a AUC por fold (0,5)"
+Dummy_estratificado,,,,0,"saída constante por fold: usar a AUC por fold (0,5)"
+SVM_RBF,0.5554,0.2781,0.6574,2000,
+Random_Forest,0.3899,0.2912,0.5367,2000,
+XGBoost,0.4508,0.3341,0.5677,2000,

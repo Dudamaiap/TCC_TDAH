@@ -1,0 +1,6 @@
+modelo,accuracy_pond,balanced_accuracy_pond,precision_pond,recall_pond,specificity_pond,f1_pond,auc_roc_pond
+Dummy_estratificado,0.5501,0.5166,0.385,0.3551,0.6781,0.347,0.5166
+Dummy_prior,0.6389,0.5,0.0,0.0,1.0,0.0,0.5
+Random_Forest,0.6347,0.5009,0.0606,0.0091,0.9927,0.0158,0.5064
+SVM_RBF,0.6432,0.4901,0.165,0.2779,0.7024,0.2016,0.49
+XGBoost,0.5628,0.5039,0.4134,0.1987,0.8091,0.2193,0.5069
