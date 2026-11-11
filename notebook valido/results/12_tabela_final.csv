@@ -1,0 +1,9 @@
+modelo,família,AUC média (folds),AUC dp (folds),AUC OOF,IC95 inf,IC95 sup,Acc. balanceada,Sensibilidade,Especificidade,F1,"IC inferior > 0,5",execuções com 1 só classe prevista
+GAT,Grafo,0.5219,0.0269,0.5788,0.3986,0.6604,0.5076,0.5759,0.4393,0.4038,não,0
+Dummy_estratificado,Referência,0.5168,0.0216,,,,0.5168,0.3618,0.6718,0.3425,—,0
+XGBoost,Clássico,0.5057,0.0335,0.4508,0.3341,0.5677,0.5018,0.2095,0.7941,0.2228,não,0
+Random_Forest,Clássico,0.5037,0.0369,0.3899,0.2912,0.5367,0.5008,0.01,0.9916,0.0174,não,3
+Dummy_prior,Referência,0.5,0.0,,,,0.5,0.0,1.0,0.0,—,5
+SVM_RBF,Clássico,0.4943,0.0366,0.5554,0.2781,0.6574,0.4882,0.2118,0.7647,0.1563,não,4
+GCN,Grafo,0.4902,0.0573,0.5347,0.4379,0.6472,0.4954,0.3926,0.5981,0.3153,não,0
+CNN,Deep learning,0.4059,0.0611,0.3549,0.2334,0.5644,0.4268,0.2943,0.5592,0.2249,não,0

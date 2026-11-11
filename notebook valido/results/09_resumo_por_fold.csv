@@ -1,0 +1,4 @@
+,accuracy,accuracy,balanced_accuracy,balanced_accuracy,precision,precision,recall,recall,specificity,specificity,f1,f1,auc_roc,auc_roc
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+modelo,,,,,,,,,,,,,,
+CNN,0.4525,0.1223,0.4268,0.0705,0.3982,0.3709,0.2943,0.2065,0.5592,0.287,0.2249,0.1601,0.4059,0.0611

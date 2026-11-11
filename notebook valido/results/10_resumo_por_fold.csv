@@ -1,0 +1,5 @@
+,accuracy,accuracy,balanced_accuracy,balanced_accuracy,precision,precision,recall,recall,specificity,specificity,f1,f1,auc_roc,auc_roc
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+modelo,,,,,,,,,,,,,,
+GAT,0.4795,0.0756,0.5076,0.0267,0.358,0.1631,0.5759,0.1027,0.4393,0.1351,0.4038,0.1286,0.5219,0.0269
+GCN,0.5349,0.0327,0.4954,0.0364,0.3755,0.1962,0.3926,0.07,0.5981,0.0529,0.3153,0.1263,0.4902,0.0573

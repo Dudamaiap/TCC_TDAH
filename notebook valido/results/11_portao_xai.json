@@ -1,0 +1,10 @@
+{
+  "base": "TDAH",
+  "modelo": "XGBoost",
+  "auc_oof": 0.45083988686534215,
+  "ic_inf": 0.33411400310702516,
+  "ic_sup": 0.567673912502035,
+  "acima_do_acaso": false,
+  "auc_oof_linear": 0.4609288769315673,
+  "permutacao_rodou": false
+}

@@ -1,0 +1,2 @@
+modelo,accuracy_pond,balanced_accuracy_pond,precision_pond,recall_pond,specificity_pond,f1_pond,auc_roc_pond
+CNN,0.457,0.4324,0.4274,0.2931,0.5717,0.2362,0.4073

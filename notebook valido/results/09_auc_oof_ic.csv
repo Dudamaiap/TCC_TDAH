@@ -1,0 +1,2 @@
+modelo,auc,ic_inf,ic_sup,n_boot_validos,obs
+CNN,0.3549,0.2334,0.5644,2000,
